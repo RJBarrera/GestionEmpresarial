@@ -98,14 +98,14 @@ textarea {
 .brand small {
   display: block;
   color: #8996ac;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.3px;
   margin-top: 4px;
 }
 .sidebar-title {
   padding: 0 30px;
   color: #687993;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 800;
   letter-spacing: 1.8px;
   margin-bottom: 19px;
@@ -168,7 +168,7 @@ textarea {
   font-size: 12px;
 }
 .workspace-badge small {
-  font-size: 10px;
+  font-size: 11px;
   display: block;
   color: #7c8da4;
   margin-top: 3px;
@@ -503,14 +503,14 @@ textarea {
 }
 .panel-heading h3,
 .table-toolbar h3 {
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: -0.25px;
   color: #25344b;
   font-weight: 800;
 }
 .panel-heading p,
 .table-toolbar p {
-  font-size: 11px;
+  font-size: 13px;
   color: #98a4b3;
   margin-top: 7px;
 }
@@ -519,7 +519,7 @@ textarea {
   align-items: center;
   gap: 7px;
   color: #7e8da3;
-  font-size: 11px;
+  font-size: 13px;
 }
 .legend-dot {
   width: 8px;
@@ -548,7 +548,7 @@ textarea {
   border-bottom: 0;
 }
 .rank-number {
-  font-size: 10px;
+  font-size: 12px;
   color: #a2aec0;
   width: 17px;
   font-weight: 800;
@@ -559,7 +559,7 @@ textarea {
   background: #e9eefe;
   color: #5267d9;
   font-weight: 800;
-  font-size: 12px;
+  font-size: 14px;
   display: grid;
   place-items: center;
   border-radius: 10px;
@@ -575,7 +575,7 @@ textarea {
 }
 .ranking-info strong {
   display: block;
-  font-size: 11px;
+  font-size: 13px;
   color: #3b4960;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -584,12 +584,12 @@ textarea {
 .ranking-info small {
   display: block;
   color: #a5aebe;
-  font-size: 10px;
+  font-size: 12px;
   margin-top: 3px;
 }
 .ranking-total {
   color: #34425a;
-  font-size: 12px;
+  font-size: 13px;
   white-space: nowrap;
 }
 .subtle-link {
@@ -597,7 +597,7 @@ textarea {
   align-items: center;
   gap: 5px;
   font-weight: 700;
-  font-size: 10px;
+  font-size: 13px;
   color: #586cdd;
 }
 .mini-stats {
@@ -623,7 +623,7 @@ textarea {
 }
 .mini-stats span {
   color: #95a0b1;
-  font-size: 10px;
+  font-size: 13px;
   text-align: center;
 }
 .alerts-list {
@@ -666,7 +666,7 @@ textarea {
 }
 .all-good {
   padding: 32px 24px 44px;
-  font-size: 12px;
+  font-size: 13px;
   color: #72829b;
   display: flex;
   align-items: center;
@@ -707,7 +707,7 @@ textarea {
   border: 0;
   width: 100%;
   color: #38475d;
-  font-size: 11px;
+  font-size: 13px;
 }
 .search-box input::placeholder {
   color: #a3afbe;
@@ -724,7 +724,7 @@ textarea {
   background: #f9fafe;
   border-top: 1px solid #eef1f6;
   border-bottom: 1px solid #eef1f6;
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #9aa7b8;
   padding: 15px 19px;
@@ -735,7 +735,7 @@ textarea {
   border-bottom: 1px solid #f0f3f8;
   padding: 16px 19px;
   color: #66738a;
-  font-size: 11px;
+  font-size: 12px;
   min-width: 82px;
   line-height: 1.5;
 }
@@ -772,7 +772,7 @@ textarea {
 }
 .primary-cell small {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #a2adbc;
   margin-top: 4px;
 }
@@ -790,7 +790,7 @@ textarea {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 800;
   white-space: nowrap;
   padding: 6px 9px;
@@ -814,7 +814,7 @@ textarea {
   display: inline-block;
   padding: 6px 10px;
   border-radius: 7px;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 700;
   white-space: nowrap;
 }
@@ -954,7 +954,7 @@ textarea {
   min-width: 0;
 }
 .field-label {
-  font-size: 11px;
+  font-size: 13px;
   color: #576782;
   font-weight: 800;
 }
@@ -963,7 +963,7 @@ textarea {
   font-style: normal;
 }
 .field small {
-  font-size: 10px;
+  font-size: 12px;
   color: #9facbc;
 }
 .control {
@@ -1028,7 +1028,7 @@ textarea.control {
   padding-top: 24px;
 }
 .stock-hint {
-  font-size: 10px;
+  font-size: 12px;
   color: #8290a3;
   display: block;
   margin-top: 7px;
@@ -1049,7 +1049,7 @@ textarea.control {
   gap: 12px;
 }
 .sale-summary span {
-  font-size: 11px;
+  font-size: 12px;
   color: #8995aa;
 }
 .sale-summary strong {
@@ -1338,7 +1338,7 @@ textarea.control {
   gap: 7px;
   white-space: nowrap;
   color: #74829a;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
   cursor: pointer;
 }

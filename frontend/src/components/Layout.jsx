@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 
 const links = [
-  { to: "/", name: "Dashboard", icon: LayoutDashboard },
+  { to: "/", name: "Pantalla Principal", icon: LayoutDashboard },
   { to: "/inventario", name: "Inventario", icon: Package },
   { to: "/clientes", name: "Clientes", icon: Users },
   { to: "/vendedores", name: "Vendedores", icon: UserRoundCheck },
@@ -52,7 +52,7 @@ export default function Layout() {
           </div>
           <div>
             <strong>
-              Gestión<span>Empresarial</span>
+              GestionaTU<span>Empresa</span>
             </strong>
             <small>Panel de administración</small>
           </div>
@@ -85,7 +85,7 @@ export default function Layout() {
               <small>Espacio de trabajo</small>
             </div>
           </div>
-          <div className="sidebar-version">Versión inicial · v0.1</div>
+          {/* <div className="sidebar-version">Versión inicial · v0.1</div> */}
         </div>
       </aside>
       <div className="main-area">
@@ -113,7 +113,7 @@ export default function Layout() {
               onClick={() => navigate("/ventas?new=1")}
             >
               <Plus size={17} />
-              Nueva venta
+              Registrar venta
             </button>
           </div>
         </header>

@@ -87,7 +87,7 @@ export default function Dashboard() {
       <div className="page-heading">
         <div>
           <div className="eyebrow">RESUMEN DEL NEGOCIO</div>
-          <h1>Dashboard</h1>
+          <h1>Pantalla Principal</h1>
           <p>Monitorea las operaciones y el desempeño de tu empresa.</p>
         </div>
         <div className="date-filter">
@@ -118,8 +118,7 @@ export default function Dashboard() {
                 <span className="banner-kicker">VISTA GENERAL</span>
                 <h2>Tu negocio, en un solo lugar.</h2>
                 <p>
-                  Consulta tus indicadores clave y mantén el control de cada
-                  operación.
+                  Gestiona tu negocio con información clave y control total de cada operación.
                 </p>
                 <Link to="/reportes" className="banner-link">
                   Explorar reportes <ArrowRight size={17} />
@@ -157,7 +156,7 @@ export default function Dashboard() {
               <section className="panel chart-panel">
                 <div className="panel-heading">
                   <div>
-                    <h3>Comportamiento de ventas</h3>
+                    <h3>Resumen de ventas</h3>
                     <p>Ingresos diarios durante el periodo seleccionado</p>
                   </div>
                   <div className="legend">
